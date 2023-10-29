@@ -49,6 +49,7 @@ If this repository is useful for your research, please cite:
     @article{2023FGRM,
      title={Uncertainty Estimation for Safety-critical Scene Segmentation via Fine-grained Reward Maximization},
       author={Hongzheng Yang, Cheng Chen, Markus Scheppach, Hon Chi Yip, Qi Dou},
+      booktitle={Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)},
       year={2023}
     }  
 
