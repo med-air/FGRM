@@ -1,5 +1,5 @@
 # Uncertainty Estimation for Safety-critical Scene Segmentation via Fine-grained Reward Maximization
-Pytorch implementation for Uncertainty Estimation for Safety-critical Scene Segmentation via Fine-grained Reward Maximization, by [Hongzheng Yang](https://github.com/HongZhengYang), [Cheng Chen](https://cchen-cc.github.io/), [Yueyao Chen](https://github.com/YueyaoChenCYY), [Markus Scheppach](),  [Hon Chi Yip](https://www.surgery.cuhk.edu.hk/profile.asp?alias=hcyip), [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/).  
+Pytorch implementation for Uncertainty Estimation for Safety-critical Scene Segmentation via Fine-grained Reward Maximization, by [Hongzheng Yang*](https://github.com/HongZhengYang), [Cheng Chen*](https://cchen-cc.github.io/), [Yueyao Chen](https://github.com/YueyaoChenCYY), [Markus Scheppach](),  [Hon Chi Yip](https://www.surgery.cuhk.edu.hk/profile.asp?alias=hcyip), [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/) (* indicates equal contribution).  
 
 ## Abstract
 
