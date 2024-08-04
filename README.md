@@ -25,20 +25,14 @@ For AI-ENDO ESD dataset, access to the human cases is limited now due to ethical
 ## Usage
 
 1. create conda environment from env.yml
-   
-   
-2. Install dependencies:
 
-   1. install pytorch==1.7.0 torchvision==0.9.0 (via conda, recommend)
-   2. install the [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) (locally or in the conda env)
+2. download the dataset
 
-3. download the dataset
+3. put your pretrained model under appropate path or train the EDL method with run_EDL() 
 
-4. put your pretrained model under appropate path or train the EDL method with run_EDL() 
+4. modify the corresponding data path and model path
 
-5. modify the corresponding data path and model path
-
-6. run run_FGRM() to calibrate the model
+5. run run_FGRM() to calibrate the model
 
 ## Citation
 
