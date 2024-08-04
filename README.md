@@ -24,10 +24,8 @@ For AI-ENDO ESD dataset, access to the human cases is limited now due to ethical
 
 ## Usage
 
-1. create conda environment
+1. create conda environment from env.yml
    
-       conda create -n FGRM python=3.9
-       conda activate FGRM
    
 2. Install dependencies:
 
